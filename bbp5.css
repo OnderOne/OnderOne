@@ -577,15 +577,15 @@ font-size: 20px;
     top: 5px;   
             }
 .rtx3 {
-    position: relative; /* родитель относительно которого позиционируется кнопка */
+    position: relative; 
 }
 
 .a5 {
     display: inline-block;
     padding: 10px 10px;
     box-shadow: 4px 4px 0 0 rgb(0, 0, 65);
-    position: absolute; /* вместо relative */
-    top: 590px;        /* начальная позиция внутри rtx3 */
+    position: absolute;
+    top: 590px;       
     left: 15px;
     text-align: center;
     color: white;
@@ -595,11 +595,34 @@ font-size: 20px;
     height: 80px;
     border: 3px solid white;
     border-radius: 10px;
-    transition: top 0.3s ease, left 0.3s ease; /* плавный переход */
+    transition: top 0.3s ease, left 0.3s ease; 
 }
 
 .a5:hover {
     top: 595px;
+    left: 20px;
+}
+
+.a7 {
+    display: inline-block;
+    padding: 10px 10px;
+    box-shadow: 4px 4px 0 0 rgb(0, 0, 65);
+    position: absolute;
+    top: 700px;       
+    left: 15px;
+    text-align: center;
+    color: white;
+    font-size: 20pt;
+    background-color: navy;
+    width: 200px;
+    height: 50px;
+    border: 3px solid white;
+    border-radius: 10px;
+    transition: top 0.3s ease, left 0.3s ease; 
+}
+
+.a7:hover {
+    top: 705px;
     left: 20px;
 }
 
@@ -638,7 +661,7 @@ font-size: 20px;
     display: inline-block;
     padding: 10px 10px;
     box-shadow: 4px 4px 0 0 rgb(0, 0, 65);
-    position: relative; /* оставляем как у тебя */
+    position: relative; 
     list-style-type: none;
     text-decoration: none;
     top: 500px;
@@ -652,7 +675,7 @@ font-size: 20px;
     margin-bottom: 10px;
     border: 3px solid white;
     border-radius: 10px;
-    transition: top 0.3s ease, left 0.3s ease; /* добавляем плавный переход */
+    transition: top 0.3s ease, left 0.3s ease; 
 }
 
 .a5:hover {

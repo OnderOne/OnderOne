@@ -24,8 +24,7 @@
     <li class="poland">Польща — Вроцлав</li>
 </ul>
 
-        <a href="13.3.2.html" class="a5">Повернутися назад</a><br>
-        <a href="13.3.2.5.html" class="a7">txt</a>
+        <a href="13.3.2.html" class="a5">Повернутися назад</a>
 </div>
 <div class="menu">
     <a href="https://sport.ua/uk" class="a1">Cпорт</a>

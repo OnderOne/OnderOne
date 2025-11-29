@@ -578,6 +578,28 @@ font-size: 20px;
     left: 5px;
     top: 5px;   
             }
+.a8 {
+    display: inline-block;
+    box-shadow: 4px 2px 0 0 rgb(0, 0, 65);
+    position: relative;
+    list-style-type: none;
+    text-decoration: none;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 10px 10px;
+    font-size: 20pt;
+    background-color: navy;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.a8:hover{
+    left: 5px;
+    top: 5px;   
+            }
 .a5 {
     display: inline-block;
     padding: 10px 10px;
@@ -601,6 +623,26 @@ font-size: 20px;
     left: 20px;
     top: 595px;   
             }
+.a7 {
+    display: inline-block;
+    padding: 10px 10px;
+    box-shadow: 4px 4px 0 0 rgb(0, 0, 65);
+    position: absolute;     
+    left: 15px;
+    text-align: center;
+    color: white;
+    font-size: 20pt;
+    background-color: navy;
+    width: 200px;
+    height: 50px;
+    border: 3px solid white;
+    border-radius: 10px;
+    transition: top 0.3s ease, left 0.3s ease; 
+}
+
+.a7:hover {
+    left: 20px;
+}
 .a6 {
                 display: inline-block;
                 padding: 10px 10px;

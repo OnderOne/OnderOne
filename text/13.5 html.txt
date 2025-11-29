@@ -8,7 +8,7 @@
 </head>
 <body id="fonOndervan">
         <h3 class="ggg" align="center">Центр відпочинку OnderOne</h3>
-        <div class="aleza"></div><input type="text" class="search-input" /><img class="search-icon" src="Fon/image1.png"><img class="microphone-icon"src="Fon/msg5035091466-37746.jpg" />
+        <div class="aleza"></div><input type="text" class="search-input"><img class="search-icon" src="Fon/image1.png"><img class="microphone-icon"src="Fon/msg5035091466-37746.jpg">
     <div class="rtx1">
 <form>
 <fieldset>
@@ -19,17 +19,17 @@
 </tr>
 <tr>
 <th>Перегорнути назад</th>
-<th>Курорт Four Seasons на Мальдивах</th>
-<th>Салар де Юни, Боливия</th>
-<th>Метеоры, Греция</th>
+<th>Древний город Петра, Иордания</th>
+<th>Тоннель любви, Украина</th>
+<th>Баган, Мьянма</th>
 <th>Перегорнути вперед</th>
 </tr>
 <tr>
-<td><a href="13.3.2.2.html"><img src="Left (1).jpg" height="100%" width="100%"></a></td>
-<td><label><input type="checkbox" align="center"> <img src="1672133467_kartinkin-net-p-otdikh-kartinki-krasivie-oboi-8 (1).jpg" usemap="#Czech"  height="100%" width="100%"> <map name="Czech"></iframe></label></td>
-<td><label><input type="checkbox" align="center"> <img src="5-Salar_de_Uyuni-e1528946029666.jpg" usemap="#Czech" height="100%" width="100%"> <map name="Czech"></iframe></label></td>
-<td><label><input type="checkbox" align="center"> <img src="6-Tianzi_Mountains-e1528946160313.jpg" usemap="#Czech" height="100%" width="100%"> <map name="Czech" ></iframe></label></td>
-<td><a href="13.3.2.4.html"><img src="right.jpg" height="100%" width="100%"></a></td>
+<td><a href="13.3.2.3.html"><img src="Left (1).jpg" height="100%" width="100%"></a></td>
+<td><label><input type="checkbox" align="center"> <img src="7-Petra-e1528946301405.jpg" usemap="#Czech" height="100%" width="97%"> <map name="Czech"></iframe></label></td>
+<td><label><input type="checkbox" align="center"> <img src="8-Tunnel_of_Love-e1528946474179.jpg" usemap="#Czech" height="100%" width="97%"><map name="Czech"></iframe></label></td>
+<td><label><input type="checkbox" align="center"> <img src="9-Bagan-e1528946602401.jpg" usemap="#Czech" height="100%" width="97%"> <map name="Czech" ></iframe></label></td>
+<td><a href="13.3.2.html"><img src="right.jpg" height="100%" width="100%"></a></td>
 </tr>
 </table>
 <table border="1" bgcolor="" width="100%">
@@ -117,7 +117,6 @@
     </div>
 </div>
 <a class="a4" href="13.3.2.1.html">Маршрути</a>
-<a href="13.3.2.6.html" class="a8">txt</a>
 </div>
 </body>
 </html>

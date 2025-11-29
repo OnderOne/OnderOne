@@ -178,8 +178,7 @@ E-mail:<br>
 <button onclick="alert('Спасибі за відправку Ми зробемо щоб ви бистріше полетіли на курорт або відпочинок')">Відравити</button><br><br>
 <input type="reset" name="olistit" value="Отчистити">
 </form>
-</fieldset><br>
-<a href="13.4.html" class="a7">txt</a>
+</fieldset>
 </div>
 <div class="menu">
         <a href="https://sport.ua/uk" class="a1">Cпорт</a>

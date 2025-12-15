@@ -258,7 +258,7 @@ position: relative;
     text-decoration: none;
     color: rgb(0, 0, 0);
     padding: 5px;
-    font-size: 70px;
+    font-size: 60px;
     left: 1px;
     top:20px;
     width: 100%;
@@ -267,6 +267,13 @@ position: relative;
     margin-bottom: 10px;
     border: 7px solid rgb(7, 1, 36);
     border-radius: 30px;
+}
+.ggg1{
+    position: absolute;
+    left: 90%;
+    top: 3%;
+    font-size: 30px;
+    z-index: 9999;
 }
 #fonOndervan{
         background-image: url(RAst.jpg);
@@ -666,6 +673,12 @@ font-size: 20px;
                 top: 995px;   
                         }
  @media screen and (max-width: 924px) {
+    .ggg1{
+    left: 95%;
+    top: 1%;
+    font-size: 30px;
+    z-index: 9999;
+    }
     .hhhht{
             top: 15%;
             left: 20px;
